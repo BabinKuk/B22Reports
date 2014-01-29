@@ -1,0 +1,4 @@
+<!ELEMENT Sql (Name, Value)* >
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Value (#PCDATA)>
+<!ELEMENT Library (Sql?)+ >

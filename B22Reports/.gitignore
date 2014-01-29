@@ -1,0 +1,19 @@
+# ignore all bin directories
+# matches "bin" in any subfolder
+bin
+
+# ignore all target directories
+target
+
+# ignore all files ending with ~
+*~ 
+
+# ignore all .metadata directories
+# matches ".metadata" in any subfolder
+.metadata 
+
+# ignore all .xml files
+*.xml
+
+# matches "lib" in any subfolder
+lib
